@@ -1,13 +1,18 @@
-Learning Khmer Writing application is an Android applicition which provide instruction of how to write khmer alphabets.
+Welcome to your Appcelerator Titanium Mobile Project
 
-This project is created in order to promote Khmer Language & Khmer Open Source Community.
+This is a blank project.  Start by editing your application's app.js to 
+make your first mobile project using Titanium.
 
-Technology:
-	- JavaScript
-	- Appcelerator Titanium Mobile
 
-Targeted Operating System:
-	Android v.2.1+
-	
-	
-*NOTE: If you are interested in joining this project, do contact me.	
+
+----------------------------------
+Stuff our legal folk make us say:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
+
