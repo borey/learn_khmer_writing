@@ -28,3 +28,4 @@ Logfile initialized
 [INFO] Launching application ... learn_khmer_writing
 [TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.limborey.learnkhmerwriting/.Learn_khmer_writingActivity }
 
+[DEBUG] signal caught: 15
